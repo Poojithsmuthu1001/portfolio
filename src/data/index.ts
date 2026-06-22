@@ -1,5 +1,4 @@
 import { Project, SkillCategory, Achievement, Experience, SocialLink } from '../types';
-import profileImage from '../assets/images/profile.jpg';
 
 export const personalInfo = {
   name: 'Poojith S Muthu',
@@ -10,7 +9,7 @@ export const personalInfo = {
   bio: `Passionate developer with 5+ years of experience building modern web applications.
         I love turning complex problems into simple, beautiful, and intuitive solutions.`,
   resumeUrl: '/resume.pdf',
-  image: profileImage,
+  image: 'assets/images/profile.jpg',
 };
 
 export const socialLinks: SocialLink[] = [
