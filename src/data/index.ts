@@ -1,9 +1,9 @@
 import { Project, SkillCategory, Achievement, Experience, SocialLink } from '../types';
 
 export const personalInfo = {
-  name: 'Alex Morgan',
+  name: 'Poojith S Muthu',
   designation: 'Full Stack Developer',
-  email: 'alex@example.com',
+  email: 'poojithskater1001@gmail.com',
   phone: '+1 (555) 123-4567',
   location: 'San Francisco, CA',
   bio: `Passionate developer with 5+ years of experience building modern web applications.
@@ -12,7 +12,7 @@ export const personalInfo = {
 };
 
 export const socialLinks: SocialLink[] = [
-  { name: 'GitHub', url: 'https://github.com', icon: 'github' },
+  { name: 'GitHub', url: 'https://github.com/Poojithsmuthu1001', icon: 'github' },
   { name: 'LinkedIn', url: 'https://linkedin.com', icon: 'linkedin' },
   { name: 'Twitter', url: 'https://twitter.com', icon: 'twitter' },
   { name: 'Instagram', url: 'https://instagram.com', icon: 'instagram' },
