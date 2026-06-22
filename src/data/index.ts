@@ -9,7 +9,7 @@ export const personalInfo = {
   bio: `Passionate developer with 5+ years of experience building modern web applications.
         I love turning complex problems into simple, beautiful, and intuitive solutions.`,
   resumeUrl: '/resume.pdf',
-  image: '/profile.jpg',
+  image: 'assets/images/profile.jpg',
 };
 
 export const socialLinks: SocialLink[] = [
