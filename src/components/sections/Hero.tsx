@@ -120,7 +120,8 @@ export function HeroSection() {
                 whileHover={{ scale: 1.02 }}
               >
                 <img
-                  src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  src="WhatsApp Image ...32_009aa9e0.jpg"
+            
                   alt={personalInfo.name}
                   className="w-full h-full object-cover"
                 />
